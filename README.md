@@ -1,3 +1,3 @@
 # making-psychology-accessible
 
-project decriptions 
+project descriptions 
