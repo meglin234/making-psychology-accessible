@@ -8,11 +8,12 @@ Compile information from scientific journals and present it in a format accessib
 
 [False Memories](https://meglin234.github.io/making-psychology-accessible/PSYC311_website/index.html)
 
-Cognition and Thinking (spring 2022)
+Cognition and Thinking (Spring 2022)
 
+</br>
 
 [College Students use of Digital Flashcards](https://meglin234.github.io/making-psychology-accessible/PSYC411_website/index.html)
 
-Cognitive Psychology (fall 2022)
+Cognitive Psychology (Fall 2022)
 
 
