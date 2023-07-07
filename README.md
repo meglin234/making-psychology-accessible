@@ -10,7 +10,7 @@ Compile information from scientific journals and present it in a format accessib
 
 Cognition and Thinking (Spring 2022)
 
-</br>
+***
 
 [College Students use of Digital Flashcards](https://meglin234.github.io/making-psychology-accessible/PSYC411_website/index.html)
 
