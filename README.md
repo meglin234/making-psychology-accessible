@@ -2,7 +2,7 @@
 
 Project goal: 
 
-Compile information from scientific journals and present it in a format accessible to the general public
+Compile information from scientific journals and present it in a format accessible to the general public.
 
 ## 
 
